@@ -38,9 +38,6 @@ npm run package
 
 
 
-## Contributing
-
-Pull requests are always welcome 😃.
 
 ## License
 
